@@ -1,4 +1,4 @@
-from app.schemas.auth import (
+from app.auth.schemas.auth import (
     RegisterRequest,
     LoginRequest,
     TokenResponse,
